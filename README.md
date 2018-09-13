@@ -1,2 +1,2 @@
-# The-Tech-Academy-JavaScript-Coding-Projects
-JavaScript Coding Projects
+# Tech-Academy-Basic-HTML-CSS-Projects
+HTML-CSS Learning Projects

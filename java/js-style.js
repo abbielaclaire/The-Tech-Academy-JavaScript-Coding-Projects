@@ -140,10 +140,10 @@ function getCrust(runningTotal,text1,text2) {
 	document.getElementById("cart").style.opacity=1;
 	document.getElementById("showText1").innerHTML=text1;
 	document.getElementById("showText2").innerHTML=text2;
-	document.getElementById("totalPrice2").innerHTML = "</h3>$"+runningTotal+".00"+"</h3>";
+	document.getElementById("totalPrice2").innerHTML="<h3>$"+runningTotal+".00"+"</h3>";
 };
 
 function clearAll() {
-	document.getElementById("outsideMenu").reset();
+	document.getElementById("frameMenu").reset();
 	document.getElementById("cart").style.opacity=0;
 };
